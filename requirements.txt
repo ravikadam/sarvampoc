@@ -1,0 +1,7 @@
+streamlit
+requests
+pydantic
+instructor
+openai
+python-dotenv
+streamlit_audiorecorder 
