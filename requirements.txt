@@ -5,4 +5,4 @@ instructor
 openai
 python-dotenv
 streamlit_audiorecorder 
-ffmpeg-python==0.2.0
+ffmpeg-python
